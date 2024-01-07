@@ -68538,6 +68538,17 @@ In conclusion, our extensive data mining project provides valuable insights into
 
 HALFORD Max, Measuring the carbon footprint of pizzas, https://maxhalford.github.io/blog/carbon-footprint-pizzas/
 
+Study by 'Les Echos' on Sandwich Consumption: https://www.lesechos-etudes.fr/blog/actualites-21/les-indices-sandwich-burger-et-pizza-en-2021-11540#:~:text=Le%20sandwich%20occupe%20toujours%20la,selon%20les%20circuits%20de%20distribution.
+
+Paul Sandwich Web Menu: https://www.paul.fr/dejeuner/sandwichs
+
+Brioche Dorée Sandwich Web Menu: https://www.briochedoree.fr/carte/categorie/SANDWICHS/sandwichs
+
+CIQUAL Database: 
+https://ciqual.anses.fr/#/cms/download/node/20
+
+AGRYBALYSE Database:
+https://agribalyse.ademe.fr/
 
 ```python
 
